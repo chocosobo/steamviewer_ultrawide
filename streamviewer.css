@@ -42,7 +42,6 @@ time, mark, audio, video {
 	float: left;
 }
 
-
 @media(max-width:3441px) {
 	.video {
 		width: 2560px;
@@ -70,6 +69,3 @@ time, mark, audio, video {
 		float: left;
 	}
 }
-
-
-
